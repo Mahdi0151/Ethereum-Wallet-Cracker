@@ -35,4 +35,4 @@ At a high level, this script does the following:
 
 # Need Help?
 
-I don't usually check open issues on this repo. If you need hands-on help, contact me @Keewenaw on Telegram, LinkedIn, or here on GitHub. I'm happy to work with you to, for a fee, customize the script or provide you with white-glove consulting solutions for recovering the private key to your own Ethereum wallet.
+ If you need hands-on help, contact me here on GitHub. I'm happy to work with you to, for a fee, customize the script or provide you with white-glove consulting solutions for recovering the private key to your own Ethereum wallet.
